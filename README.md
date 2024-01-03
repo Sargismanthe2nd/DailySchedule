@@ -1,1 +1,1 @@
-# Work Day Scheduler Starter Code
+The goal with this project was to take the starter code and make each hour's background change colour as the day progresses to visualise past present and future. A few more intended goals were to display the current day at the top of the page as well as save any content inputed into each hour segment and display that content even when refreshed.
